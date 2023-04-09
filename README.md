@@ -12,6 +12,9 @@ despite increase in input.
 
 Additionally
 Crop disease is a major threat to global food security, with an estimated 20-40% of global crop yields lost annually due to plant diseases. Traditional methods of crop disease detection involve visual inspection by trained agronomists, which is time-consuming, labor-intensive, and prone to human error. To address this issue, a deep learning project can be developed to automate the process of crop disease detection using image analysis techniques. The project will aim to develop a model that can accurately classify images of crops as healthy or diseased, and identify the specific disease affecting the plant. The model will be trained on a large dataset of images of healthy and diseased crops, and will be evaluated on its ability to accurately identify the presence and type of disease in new images. The goal of this project is to provide farmers and agronomists with a tool that can quickly and accurately detect crop diseases, allowing for early intervention and reducing the risk of crop loss.
+
+In this Projest I try to make this accessible to the farmers through an API that accepts images and returns a response with details of the plant type and disease detected and later on provide various solutions and drugs to counter the disease.
+
 # DATA COLLECTION
 there exists several datasets that will be used for this machine learning I make use of kaggle crop diseases datasets.
 The data majorly consists of images of different crop diseases.
