@@ -22,3 +22,9 @@ The data majorly consists of images of different crop diseases.
 One of the challenging task is data cleaning fortunately we will have most of the data already cleaned and we will in this project assume that all data supplied is credible and useful.
 
 For Processing the data we will try different CNN algorithms to see which will give us the best and shortest learning curve.
+
+#CHALLENGES
+The data collected appears to have some noise especially dark pictures and despite augmetinting the data to increase the training sample I still have a challenge with the training of the model.
+
+#MODEL TRAINING
+There are a plethora of methods to train a model especially a CNN model however most of the models still remain a probability scenario depending on trial and error as there is no predetermined diraction that changes the learning curve adversely or in the direction required it is a change of parameters with the hope that the model will learn as much from the data
